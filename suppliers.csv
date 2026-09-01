@@ -1,0 +1,24 @@
+account_code,supplier_name,total_payments_myr,total_purchases_myr,ending_balance_myr
+SUP-001,Small Supplier F,3113.04,10250.54,-7395.77
+SUP-002,Small Supplier I,8394.26,7565.91,0.0
+SUP-003,Small Supplier H,5237.73,5079.06,0.0
+SUP-004,Small Supplier N,735.59,757.59,0.0
+SUP-005,Payment Services Co,15872.04,17076.08,0.0
+SUP-006,Small Supplier M,1828.45,1777.14,0.0
+SUP-007,Freight & Forwarding Co,22681.46,56182.23,-30283.1
+SUP-008,Logistics Provider L,3042.02,2928.01,0.0
+SUP-009,Small Supplier J,0.0,6240.61,-6298.94
+SUP-010,Small Supplier S,391.49,369.98,0.0
+SUP-011,Small Supplier O,1210.69,1194.23,0.0
+SUP-012,Textile Supplier D,49387.96,51906.18,0.0
+SUP-013,Fabric Supplier B,84920.31,84350.59,0.0
+SUP-014,Garment Manufacturer C,49670.46,49217.22,0.0
+SUP-015,Small Supplier R,204.11,191.85,0.0
+SUP-016,Small Supplier E,10064.2,10396.06,0.0
+SUP-017,Small Supplier P,1483.24,1341.95,0.0
+SUP-018,Small Supplier T,218.41,205.12,0.0
+SUP-019,Textile Mill A,500244.34,884424.23,-350278.17
+SUP-020,Small Supplier G,10586.75,10011.75,0.0
+SUP-021,Small Supplier K,6434.41,6939.53,0.0
+SUP-022,Small Supplier Q,3836.9,4067.06,0.0
+SUP-023,Small Supplier U,0.0,161.81,-166.08

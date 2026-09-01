@@ -1,0 +1,19 @@
+account_code,customer_name,total_sales_myr,total_payments_received_myr,ending_balance_myr
+CUST-001,Wholesale Client D,0.0,84368.63,-84038.98
+CUST-002,Retail Client O,0.0,2433.71,-2486.65
+CUST-003,Retail Client J,30955.44,30723.55,0.0
+CUST-004,Retail Client M,5224.45,4722.83,0.0
+CUST-005,Cash Sales (Walk-in),10104.94,10359.49,0.0
+CUST-006,Retail Client I,17204.29,17930.3,0.0
+CUST-007,Retail Client K,4582.2,4425.15,0.0
+CUST-008,Retail Client N,2106.79,1957.32,0.0
+CUST-009,Wholesale Client A,370678.4,10301.59,361409.94
+CUST-010,Retail Client P,705.86,660.12,0.0
+CUST-011,Retail Client G,18591.89,19120.2,0.0
+CUST-012,Wholesale Client B,125209.65,291730.71,-185822.08
+CUST-013,Livestream Platform Sales,62362.29,56632.22,0.0
+CUST-014,Retail Client F,21599.78,22668.28,0.0
+CUST-015,Retail Client L,3846.67,4075.73,0.0
+CUST-016,Retail Client H,11930.62,11306.76,0.0
+CUST-017,Wholesale Client E,0.0,42134.18,-42662.16
+CUST-018,Wholesale Client C,83915.14,86942.13,0.0
